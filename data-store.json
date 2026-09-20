@@ -1,0 +1,1517 @@
+{
+  "users": [
+    {
+      "id": "4f72db7c-c697-40fd-af4c-4740f9076571",
+      "name": "الشيخ عبد الرحيم القنائي (عطارة قنا الكبرى)",
+      "email": "abdulrahim@qenaspices.com",
+      "phone": "+20 10 7776 5432",
+      "role": "merchant",
+      "storeId": "1e0c7042-32b4-4bda-9195-2fe35940bb11",
+      "vehicleType": "موتوسيكل",
+      "createdAt": "2026-09-08T05:43:47.979074+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "a60802c6-30e7-4b72-be7c-a0e27f00e952",
+      "name": "الأستاذ مصطفى الحلواني (حلويات قنا البلدية)",
+      "email": "mostafa@qenapastry.com",
+      "phone": "+20 12 8887 6543",
+      "role": "merchant",
+      "storeId": "9d3bfb78-cb94-4d8b-a7e8-466d6d0a0b22",
+      "vehicleType": "موتوسيكل",
+      "createdAt": "2026-09-08T05:43:47.979074+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+      "name": "زفت",
+      "email": "kashd@gmail.com",
+      "phone": "+20 10 0000 0000",
+      "role": "merchant",
+      "vehicleType": "موتوسيكل",
+      "createdAt": "2026-09-10T07:52:20.181198+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "9644783a-cfef-434c-a537-5604a15fd1e0",
+      "name": "كريم",
+      "email": "kmfkmf51@gmail.com",
+      "phone": "+20 10 0000 0000",
+      "role": "admin",
+      "vehicleType": "موتوسيكل",
+      "createdAt": "2026-09-10T06:07:45.86262+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "be288557-65de-442a-a67a-b5e75fc100c8",
+      "name": "كابتن ماجد",
+      "email": "my.temp.mail.siber@gmail.com",
+      "phone": "+20 10 0000 0000",
+      "role": "delivery",
+      "vehicleType": "موتوسيكل",
+      "createdAt": "2026-09-11T05:02:56.745697+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "a02284b4-d19a-431a-add4-f93f36cc6f7a",
+      "name": "User Test",
+      "email": "test_1789103018056@gmail.com",
+      "phone": "+20 10 0000 0000",
+      "role": "customer",
+      "vehicleType": "موتوسيكل",
+      "createdAt": "2026-09-11T05:03:38.522815+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "ad42aa7e-af01-4532-a683-74dee3688ba4",
+      "name": "زلوط",
+      "email": "tt7@gmail.com",
+      "phone": "01000000004",
+      "role": "customer",
+      "vehicleType": "موتوسيكل",
+      "createdAt": "2026-09-11T09:15:08.922+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "c735d185-d916-4173-8133-d4e0c622e77a",
+      "name": "محمد سعيد",
+      "email": "mohamed@gmail.com",
+      "phone": "01515856464",
+      "role": "customer",
+      "createdAt": "2026-09-12T09:41:03.339+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "e394af15-c328-4f6b-a369-3db77abc1e84",
+      "name": "محمد",
+      "email": "mohamed2@gmail.com",
+      "phone": "01515856464",
+      "role": "merchant",
+      "createdAt": "2026-09-12T09:46:26.819342+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "bcbd811b-699c-4e77-aea4-6ac1d41e8d03",
+      "name": "هع",
+      "email": "jjj@gmail.com",
+      "phone": "01000000004",
+      "role": "delivery",
+      "vehicleType": "موتوسيكل",
+      "createdAt": "2026-09-12T05:43:54.025+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "47498610-670e-44f2-9308-47a329fc4849",
+      "name": "زلوط",
+      "email": "ksdf@gmail.com",
+      "phone": "01000000005",
+      "role": "delivery",
+      "vehicleType": "موتوسيكل",
+      "plateNumber": "زعع 123",
+      "createdAt": "2026-09-12T06:00:38.862+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "4bdf1363-000f-4100-b256-24d34ad2d967",
+      "name": "محمد",
+      "email": "mohamed3@gmail.com",
+      "phone": "01515856464",
+      "role": "delivery",
+      "vehicleType": "موتوسيكل",
+      "plateNumber": "01109",
+      "createdAt": "2026-09-12T09:48:00.301+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "5fcd231b-370e-426b-b653-51ca11c962f8",
+      "name": "أحمد علي",
+      "email": "test_user_qena_99@example.com",
+      "phone": "01098765432",
+      "role": "customer",
+      "createdAt": "2026-09-13T11:27:47.777284+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "779911fc-d38c-4af0-a265-41a4db3e11d0",
+      "name": "محمود قناوي",
+      "email": "mahmoud_test_merchant@example.com",
+      "phone": "01011122233",
+      "role": "customer",
+      "createdAt": "2026-09-13T11:28:52.170493+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "b389e1be-4789-4490-8a71-b2c77ced8b5b",
+      "name": "علي كابتن",
+      "email": "ali_delivery_test@example.com",
+      "phone": "01044455566",
+      "role": "customer",
+      "vehicleType": "موتوسيكل",
+      "plateNumber": "ق ن ا 5555",
+      "createdAt": "2026-09-13T11:28:55.48391+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "ac6ddc7d-87ad-42ec-a831-4d31532263d7",
+      "name": "زلوط",
+      "email": "zehqt@gmail.com",
+      "phone": "10000000009",
+      "role": "customer",
+      "vehicleType": "موتوسيكل",
+      "plateNumber": "ععع111",
+      "createdAt": "2026-09-13T12:17:00.750182+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "11e7c00e-eb24-4a51-91f7-516f26f5867a",
+      "name": "عمك",
+      "email": "ffff@gmail.com",
+      "phone": "10000000009",
+      "role": "delivery",
+      "vehicleType": "موتوسيكل",
+      "plateNumber": "للل123",
+      "createdAt": "2026-09-13T12:27:25.796841+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "1d2320cb-a101-4e0b-b62f-3d6bc42aba2c",
+      "name": "mohamed12",
+      "email": "mohamed12@gmail.com",
+      "phone": "01231541",
+      "role": "customer",
+      "createdAt": "2026-09-15T17:10:19.826501+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    },
+    {
+      "id": "eccca1e4-5d15-454c-bbc9-558ba355c803",
+      "name": "mohh",
+      "email": "mm@gmail.com",
+      "phone": "12312412",
+      "role": "customer",
+      "createdAt": "2026-09-15T17:12:45.232279+00:00",
+      "avatarUrl": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2310b981' rx='50'/%3E%3Ccircle cx='50' cy='38' r='18' fill='%23ffffff'/%3E%3Cpath d='M20 85 C20 62, 35 55, 50 55 C65 55, 80 62, 80 85 Z' fill='%23ffffff'/%3E%3C/svg%3E"
+    }
+  ],
+  "stores": [
+    {
+      "id": "4ebd9a2e-51d9-4a63-888c-2687257f7351",
+      "ownerId": "779911fc-d38c-4af0-a265-41a4db3e11d0",
+      "name": "سوبرماركت البركة",
+      "description": "متجر تجاري معتمد في قنا يقدم أفضل المنتجات الطازجة والخدمات",
+      "category": "سوبرماركت",
+      "logoUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=200",
+      "bannerUrl": "https://images.unsplash.com/photo-1534723452862-4c874018d66d?w=1200",
+      "rating": 5,
+      "reviewCount": 0,
+      "priceLevel": "$$",
+      "lat": 26.158,
+      "lng": 32.718,
+      "address": "شارع المحطة، قنا",
+      "phone": "01011122233",
+      "isOpen": true,
+      "distanceKm": 1,
+      "isApproved": false
+    },
+    {
+      "id": "b2f94852-a79c-44cd-a699-4625e1f4b77f",
+      "name": "أجبان وألبان قنا الصعيدية",
+      "description": "تشكيلة مختارة من أرقى الأجبان الصعيدية والجبنة القريش والزبادي البلدي والألبان الطازجة يومياً",
+      "category": "أجبان وألبان",
+      "logoUrl": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=200",
+      "bannerUrl": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=1200",
+      "rating": 4.9,
+      "reviewCount": 184,
+      "priceLevel": "$$",
+      "lat": 26.155,
+      "lng": 32.716,
+      "address": "شارع 23 يوليو، وسط البلد، قنا",
+      "phone": "+20 96 321 4567",
+      "isOpen": true,
+      "distanceKm": 1,
+      "isApproved": true
+    },
+    {
+      "id": "str_meat_1",
+      "ownerId": "usr_merchant_1",
+      "name": "ملحمة الصعيد للحوم الطازجة",
+      "description": "لحوم بلدي طازجة وضاني وعجول مذبوحة يومياً تحت إشراف بيطري مع التقطيع والتجهيز حسب رغبتك",
+      "category": "جزارة ولحوم",
+      "logoUrl": "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?w=200",
+      "bannerUrl": "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?w=1200",
+      "rating": 4.8,
+      "reviewCount": 240,
+      "priceLevel": "$$$",
+      "lat": 26.16,
+      "lng": 32.721,
+      "address": "ميدان الساعة، شارع الجمهورية، قنا",
+      "phone": "+20 96 332 7890",
+      "isOpen": true,
+      "distanceKm": 0.8
+    },
+    {
+      "id": "str_supermarket_1",
+      "ownerId": "usr_admin_1",
+      "name": "سوبرماركت الهلالي - قنا",
+      "description": "جميع المواد التموينية والمستلزمات المنزلية والغذائية ومنتجات السوبرماركت بأفضل الأسعار",
+      "category": "سوبرماركت",
+      "logoUrl": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?w=200",
+      "bannerUrl": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?w=1200",
+      "rating": 4.6,
+      "reviewCount": 310,
+      "priceLevel": "$",
+      "lat": 26.165,
+      "lng": 32.728,
+      "address": "حي المصالح، مجمع المحاكم، قنا",
+      "phone": "+20 96 345 0123",
+      "isOpen": true,
+      "distanceKm": 2.1
+    },
+    {
+      "id": "str_bakery_1",
+      "ownerId": "usr_admin_1",
+      "name": "مخبوزات وفطير صعيدي البركة",
+      "description": "فطير مشلتت صعيدي بالسمن البلدي، عيش شمسي، مخبوزات طازجة من الفرن وحلويات شرقية",
+      "category": "مخابز وحلويات",
+      "logoUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=200",
+      "bannerUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=1200",
+      "rating": 4.7,
+      "reviewCount": 156,
+      "priceLevel": "$$",
+      "lat": 26.152,
+      "lng": 32.712,
+      "address": "شارع المحطة، مدينة قنا",
+      "phone": "+20 96 356 1234",
+      "isOpen": true,
+      "distanceKm": 1.6
+    },
+    {
+      "id": "str_veggies_1",
+      "ownerId": "usr_admin_1",
+      "name": "واحة الصعيد للخضار والفاكهة الطازجة",
+      "description": "خضار وفاكهة طازجة من مزارع قنا والصعيد مباشرة مقطوفة يومياً بأعلى جودة",
+      "category": "خضار وفواكه",
+      "logoUrl": "https://images.unsplash.com/photo-1610348725531-843dff563e2c?w=200",
+      "bannerUrl": "https://images.unsplash.com/photo-1610348725531-843dff563e2c?w=1200",
+      "rating": 4.8,
+      "reviewCount": 92,
+      "priceLevel": "$",
+      "lat": 26.17,
+      "lng": 32.735,
+      "address": "منطقة المعنا، طريق قنا الأقصر، قنا",
+      "phone": "+20 96 367 6789",
+      "isOpen": true,
+      "distanceKm": 1.9
+    },
+    {
+      "id": "1e0c7042-32b4-4bda-9195-2fe35940bb11",
+      "ownerId": "4f72db7c-c697-40fd-af4c-4740f9076571",
+      "name": "عطارة وتوابل قنا الكبرى",
+      "description": "أجود أنواع الأعشاب الطبيعية، التوابل الأسوانية والشرقية، ومستحضرات العناية الطبيعية والزيوت الطازجة",
+      "category": "عطارة وبقالة",
+      "logoUrl": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=200",
+      "bannerUrl": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=1200",
+      "rating": 4.9,
+      "reviewCount": 128,
+      "priceLevel": "$$",
+      "lat": 26.157,
+      "lng": 32.718,
+      "address": "شارع الجميل، متفرع من ميدان الساعة، قنا",
+      "phone": "+20 96 321 0011",
+      "isOpen": true,
+      "distanceKm": 1,
+      "isApproved": true
+    },
+    {
+      "id": "9d3bfb78-cb94-4d8b-a7e8-466d6d0a0b22",
+      "ownerId": "a60802c6-30e7-4b72-be7c-a0e27f00e952",
+      "name": "حلواني البركة ومخابز قنا البلدية",
+      "description": "أشهى الحلويات الشرقية، البسبوسة الصعيدية بالسمن البلدي والمكسرات (1 كجم)، الكنافة النابلسية، وممتاز للأعياد",
+      "category": "مخابز وحلويات",
+      "logoUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=200",
+      "bannerUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=1200",
+      "rating": 4.8,
+      "reviewCount": 95,
+      "priceLevel": "$$",
+      "lat": 26.162,
+      "lng": 32.723,
+      "address": "شارع الجمهورية، بجوار بنك مصر، قنا",
+      "phone": "+20 96 322 0022",
+      "isOpen": true,
+      "distanceKm": 1,
+      "isApproved": true
+    },
+    {
+      "id": "edd2f9ba-5de0-4ef6-ac4a-c7366aa98b86",
+      "name": "ماركت الزلوط هتاخد بالشلوط",
+      "description": "متجر تجاري معتمد في قنا يقدم أفضل المنتجات الطازجة والخدمات",
+      "category": "سوبرماركت",
+      "logoUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=200",
+      "bannerUrl": "https://images.unsplash.com/photo-1534723452862-4c874018d66d?w=1200",
+      "rating": 5,
+      "reviewCount": 0,
+      "priceLevel": "$$",
+      "lat": 26.158,
+      "lng": 32.718,
+      "address": "شارع القبيح",
+      "phone": "01000000000",
+      "isOpen": true,
+      "distanceKm": 1,
+      "isApproved": true
+    },
+    {
+      "id": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+      "ownerId": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+      "name": "jdsj",
+      "description": "متجر تجاري معتمد في قنا يقدم أفضل المنتجات الطازجة والخدمات",
+      "category": "سوبرماركت",
+      "logoUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=300",
+      "bannerUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=1200",
+      "rating": 5,
+      "reviewCount": 0,
+      "priceLevel": "$",
+      "lat": 26.158,
+      "lng": 32.718,
+      "address": "زفت",
+      "phone": "01000000001",
+      "isOpen": false,
+      "distanceKm": 1,
+      "isApproved": true
+    }
+  ],
+  "products": [
+    {
+      "id": "prd_1789099128009",
+      "storeId": "str_cheese_1",
+      "storeName": "أجبان وألبان قنا الصعيدية",
+      "name": "حلوى الجلاب القنائية الفاخرة",
+      "description": "جلاب صعيدي أصلي من عسل قصب السكر الطبيعي بنكهة تراثية",
+      "price": 35,
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=500",
+      "category": "مخابز وحلويات",
+      "stockQuantity": 50,
+      "isSoldOut": false,
+      "rating": 5,
+      "reviewCount": 0,
+      "reviews": [],
+      "createdAt": "2026-09-11"
+    },
+    {
+      "id": "prd_cheese_romi",
+      "storeId": "str_cheese_1",
+      "storeName": "أجبان وألبان المدينة الفاخرة",
+      "name": "جبنة رومي بلدي قديمة معتقة بطارخ (500 جم)",
+      "description": "جبنة رومي بلدي معتقة على أصولها بطعم غني ومميز من أجود مزارع الصعيد",
+      "price": 95,
+      "originalPrice": 110,
+      "imageUrl": "https://images.unsplash.com/photo-1618164435735-413d3b066c9a?w=500",
+      "category": "أجبان وألبان",
+      "stockQuantity": 43,
+      "isSoldOut": false,
+      "rating": 4.9,
+      "reviewCount": 38,
+      "reviews": [
+        {
+          "id": "rev_romi_1",
+          "productId": "prd_cheese_romi",
+          "userId": "usr_customer_1",
+          "userName": "أحمد محمود",
+          "rating": 5,
+          "comment": "طعم الرومي القديم ممتاز جداً وجودة لا يعلى عليها.",
+          "createdAt": "2026-03-05"
+        }
+      ],
+      "createdAt": "2026-01-08"
+    },
+    {
+      "id": "prd_cheese_white",
+      "storeId": "str_cheese_1",
+      "storeName": "أجبان وألبان المدينة الفاخرة",
+      "name": "جبنة بيضاء براميلي صعيدي بالفلفل الأخضر (1 كجم)",
+      "description": "جبنة بيضاء براميلي طبيعية مخللة بالفلفل الأخضر الحار والحليب الطبيعي 100%",
+      "price": 85,
+      "originalPrice": 95,
+      "imageUrl": "https://images.unsplash.com/photo-1559561853-08451507cbe7?w=500",
+      "category": "أجبان وألبان",
+      "stockQuantity": 30,
+      "isSoldOut": false,
+      "rating": 4.8,
+      "reviewCount": 27,
+      "reviews": [],
+      "createdAt": "2026-01-12"
+    },
+    {
+      "id": "prd_cheese_areesh",
+      "storeId": "str_cheese_1",
+      "storeName": "أجبان وألبان المدينة الفاخرة",
+      "name": "جبنة قريش فلاحي طازجة بالسمن البلدي (1 كجم)",
+      "description": "جبنة قريش صعيدي طبيعية دايت قليلة الملح مجهزة من الحليب البقري الطازج يومياً",
+      "price": 55,
+      "imageUrl": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=500",
+      "category": "أجبان وألبان",
+      "stockQuantity": 25,
+      "isSoldOut": false,
+      "rating": 4.9,
+      "reviewCount": 15,
+      "reviews": [],
+      "createdAt": "2026-01-14"
+    },
+    {
+      "id": "prd_cheese_1",
+      "storeId": "str_cheese_1",
+      "storeName": "أجبان وألبان المدينة الفاخرة",
+      "name": "جبنة شيدر إنجليزية فاخرة معتقة (500 جم)",
+      "description": "شيدر إنجليزية أصيلة معتقة لمدة 12 شهراً بنكهة غنية ومميزة للسندويشات والمقبلات",
+      "price": 45,
+      "originalPrice": 55,
+      "imageUrl": "https://images.unsplash.com/photo-1618164435735-413d3b066c9a?w=500",
+      "category": "أجبان وألبان",
+      "stockQuantity": 28,
+      "isSoldOut": false,
+      "rating": 4.9,
+      "reviewCount": 42,
+      "reviews": [],
+      "createdAt": "2026-01-10"
+    },
+    {
+      "id": "prd_cheese_2",
+      "storeId": "str_cheese_1",
+      "storeName": "أجبان وألبان المدينة الفاخرة",
+      "name": "جبنة فيتا يونانية أصلية بزيت الزيتون والزعتر (400 جم)",
+      "description": "فيتا يونانية أصيلة مصنوعة من حليب الماعز والأغنام، مغمورة بزيت الزيتون البكر والزعتر الجبلي",
+      "price": 32,
+      "imageUrl": "https://images.unsplash.com/photo-1559561853-08451507cbe7?w=500",
+      "category": "أجبان وألبان",
+      "stockQuantity": 15,
+      "isSoldOut": false,
+      "rating": 4.8,
+      "reviewCount": 19,
+      "reviews": [],
+      "createdAt": "2026-01-15"
+    },
+    {
+      "id": "prd_cheese_mozzarella",
+      "storeId": "str_cheese_1",
+      "storeName": "أجبان وألبان المدينة الفاخرة",
+      "name": "جبنة موزاريلا طبيعية مبشورة للبيتزا والمعجنات (500 جم)",
+      "description": "موزاريلا طبيعية بمطة غنية وسريعة الذوبان للبيتزا والمكرونة",
+      "price": 60,
+      "imageUrl": "https://images.unsplash.com/photo-1589881133595-a3c085cb731d?w=500",
+      "category": "أجبان وألبان",
+      "stockQuantity": 20,
+      "isSoldOut": false,
+      "rating": 4.7,
+      "reviewCount": 14,
+      "reviews": [],
+      "createdAt": "2026-01-20"
+    },
+    {
+      "id": "prd_cheese_3",
+      "storeId": "str_cheese_1",
+      "storeName": "أجبان وألبان المدينة الفاخرة",
+      "name": "جبنة بارميزان ريجيانو إيطالية (250 جم)",
+      "description": "بارميزان أصلية محفورة ومختومة بنكهة عميقة مثالية للباستا والسلطات",
+      "price": 58,
+      "originalPrice": 65,
+      "imageUrl": "https://images.unsplash.com/photo-1452195100486-9cc805987862?w=500",
+      "category": "أجبان وألبان",
+      "stockQuantity": 0,
+      "isSoldOut": true,
+      "rating": 5,
+      "reviewCount": 31,
+      "reviews": [],
+      "createdAt": "2026-02-01"
+    },
+    {
+      "id": "prd_meat_1",
+      "storeId": "str_meat_1",
+      "storeName": "ملحمة الريان للحوم الطازجة",
+      "name": "لحم عجل بلدي طازج مفروم خشن (1 كجم)",
+      "description": "لحم عجل بلدي طري قليل الدهن مفروم طازج يومياً، مثالي للبرجر والكباب والصلصات",
+      "price": 68,
+      "originalPrice": 78,
+      "imageUrl": "https://images.unsplash.com/photo-1551028150-64b9f398f678?w=500",
+      "category": "جزارة ولحوم",
+      "stockQuantity": 35,
+      "isSoldOut": false,
+      "rating": 4.9,
+      "reviewCount": 88,
+      "reviews": [
+        {
+          "id": "rev_3",
+          "productId": "prd_meat_1",
+          "userId": "usr_customer_1",
+          "userName": "سارة محمد",
+          "rating": 5,
+          "comment": "اللحم طازج ونظيف جداً ووصل مغلف بالثلج وبحالة ممتازة.",
+          "createdAt": "2026-02-20"
+        }
+      ],
+      "createdAt": "2026-01-05"
+    },
+    {
+      "id": "prd_meat_2",
+      "storeId": "str_meat_1",
+      "storeName": "ملحمة الريان للحوم الطازجة",
+      "name": "ريش ضأن نعيمي بلدي متبلة (1 كجم)",
+      "description": "ريش نعيمي بلدي ممتازة ومتبلة بخلطة الأعشاب الخاصة للشواء المباشر",
+      "price": 94,
+      "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?w=500",
+      "category": "جزارة ولحوم",
+      "stockQuantity": 18,
+      "isSoldOut": false,
+      "rating": 4.8,
+      "reviewCount": 52,
+      "reviews": [],
+      "createdAt": "2026-01-20"
+    },
+    {
+      "id": "prd_meat_3",
+      "storeId": "str_meat_1",
+      "storeName": "ملحمة الريان للحوم الطازجة",
+      "name": "كفتة لحم ضأن طازجة متبلة بالأعشاب (800 جم)",
+      "description": "كفتة مشوية شهية متبلة بالبصل والبقدونس والبهارات العربية الفاخرة",
+      "price": 54,
+      "imageUrl": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=500",
+      "category": "جزارة ولحوم",
+      "stockQuantity": 24,
+      "isSoldOut": false,
+      "rating": 4.7,
+      "reviewCount": 30,
+      "reviews": [],
+      "createdAt": "2026-02-12"
+    },
+    {
+      "id": "prd_bakery_1",
+      "storeId": "str_bakery_1",
+      "storeName": "مخبوزات وحلويات القصر",
+      "name": "بوكس كرواسون فرنسي مشكل بالزبدة والجبن (6 قطع)",
+      "description": "كرواسون هش ومورق ومخبوز طازج بالزبدة الفرنسية النقية والجبن الذائب",
+      "price": 36,
+      "imageUrl": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=500",
+      "category": "مخابز وحلويات",
+      "stockQuantity": 12,
+      "isSoldOut": false,
+      "rating": 4.8,
+      "reviewCount": 22,
+      "reviews": [],
+      "createdAt": "2026-02-18"
+    },
+    {
+      "id": "prd_bakery_2",
+      "storeId": "str_bakery_1",
+      "storeName": "مخبوزات وحلويات القصر",
+      "name": "تورتة التوت والفراولة البلجيكية",
+      "description": "طبقات كيك الفانيليا الهشة مع كريمة الماسكاربوني وفواكه التوت الطبيعية",
+      "price": 110,
+      "imageUrl": "https://images.unsplash.com/photo-1535141192574-5d4897c13136?w=500",
+      "category": "مخابز وحلويات",
+      "stockQuantity": 5,
+      "isSoldOut": false,
+      "rating": 4.9,
+      "reviewCount": 16,
+      "reviews": [],
+      "createdAt": "2026-02-22"
+    },
+    {
+      "id": "prd_veg_1",
+      "storeId": "str_veggies_1",
+      "storeName": "واحة الخضار والفواكه العضوية",
+      "name": "صندوق طماطم كرزية وخيار بلدي عضوي (2 كجم)",
+      "description": "خضروات عضوية طازجة بدون مبيدات من المزارع المحلية مباشرة",
+      "price": 24,
+      "imageUrl": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?w=500",
+      "category": "خضار وفواكه",
+      "stockQuantity": 40,
+      "isSoldOut": false,
+      "rating": 4.7,
+      "reviewCount": 28,
+      "reviews": [],
+      "createdAt": "2026-02-25"
+    },
+    {
+      "id": "a1a1a1a1-b1b1-c1c1-d1d1-e1e1e1e1e1e1",
+      "storeId": "1e0c7042-32b4-4bda-9195-2fe35940bb11",
+      "storeName": "عطارة وتوابل قنا الكبرى",
+      "name": "زعفران إيراني سوبر نقيل فاخر (2 جرام)",
+      "description": "أجود أنواع الزعفران الطبيعي ذو النكهة القوية والرائحة الزكية لجميع الطبخات والمشروبات العربية",
+      "price": 140,
+      "originalPrice": 160,
+      "imageUrl": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=500",
+      "category": "عطارة وبقالة",
+      "stockQuantity": 18,
+      "isSoldOut": false,
+      "rating": 5,
+      "reviewCount": 12,
+      "reviews": [],
+      "createdAt": "2026-09-08T00:00:00+00:00"
+    },
+    {
+      "id": "a2a2a2a2-b2b2-c2c2-d2d2-e2e2e2e2e2e2",
+      "storeId": "1e0c7042-32b4-4bda-9195-2fe35940bb11",
+      "storeName": "عطارة وتوابل قنا الكبرى",
+      "name": "زيت حبة البركة البلدي معصور على البارد (250 مل)",
+      "description": "زيت حبة البركة (الكمون الأسود) طبيعي 100% معصور على البارد للحفاظ على جميع الفوائد الصحية والطبية",
+      "price": 75,
+      "originalPrice": 85,
+      "imageUrl": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=500",
+      "category": "عطارة وبقالة",
+      "stockQuantity": 33,
+      "isSoldOut": false,
+      "rating": 4.9,
+      "reviewCount": 24,
+      "reviews": [],
+      "createdAt": "2026-09-08T00:00:00+00:00"
+    },
+    {
+      "id": "a3a3a3a3-b3b3-c3c3-d3d3-e3e3e3e3e3e3",
+      "storeId": "1e0c7042-32b4-4bda-9195-2fe35940bb11",
+      "storeName": "عطارة وتوابل قنا الكبرى",
+      "name": "كركديه أسواني لوز فاخر قطفة أولى (500 جم)",
+      "description": "كركديه طبيعي مجفف قطفة أولى بلونه العنابي الداكن وطعمه المميز والغني بالفوائد الصحية",
+      "price": 45,
+      "originalPrice": 55,
+      "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=500",
+      "category": "عطارة وبقالة",
+      "stockQuantity": 50,
+      "isSoldOut": false,
+      "rating": 4.8,
+      "reviewCount": 18,
+      "reviews": [],
+      "createdAt": "2026-09-08T00:00:00+00:00"
+    },
+    {
+      "id": "a4a4a4a4-b4b4-c4c4-d4d4-e4e4e4e4e4e4",
+      "storeId": "9d3bfb78-cb94-4d8b-a7e8-466d6d0a0b22",
+      "storeName": "حلواني البركة ومخابز قنا البلدية",
+      "name": "علبة بسبوسة صعيدية ملوكي بالسمن البلدي والمكسرات (1 كجم)",
+      "description": "البسبوسة الشرقية الغنية بالسمن البلدي الصافي ومزينة باللوز والفستق، مخبوزة ومحشوة على الطريقة الصعيدية الأصلية",
+      "price": 90,
+      "originalPrice": 105,
+      "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=500",
+      "category": "مخابز وحلويات",
+      "stockQuantity": 15,
+      "isSoldOut": false,
+      "rating": 4.9,
+      "reviewCount": 42,
+      "reviews": [],
+      "createdAt": "2026-09-08T00:00:00+00:00"
+    },
+    {
+      "id": "a5a5a5a5-b5b5-c5c5-d5d5-e5e5e5e5e5e5",
+      "storeId": "9d3bfb78-cb94-4d8b-a7e8-466d6d0a0b22",
+      "storeName": "حلواني البركة ومخابز قنا البلدية",
+      "name": "صينية كنافة نابلسية بالجبن العكاوي الساخنة (1 كجم)",
+      "description": "كنافة نابلسية مقرمشة مغطاة بالفستق الحلبي ومحشوة بالجبنة العكاوي الذائبة، تُجهز ساخنة حسب الطلب",
+      "price": 110,
+      "originalPrice": 130,
+      "imageUrl": "https://images.unsplash.com/photo-1535141192574-5d4897c13136?w=500",
+      "category": "مخابز وحلويات",
+      "stockQuantity": 10,
+      "isSoldOut": false,
+      "rating": 4.8,
+      "reviewCount": 35,
+      "reviews": [],
+      "createdAt": "2026-09-08T00:00:00+00:00"
+    },
+    {
+      "id": "a6a6a6a6-b6b6-c6c6-d6d6-e6e6e6e6e6e6",
+      "storeId": "9d3bfb78-cb94-4d8b-a7e8-466d6d0a0b22",
+      "storeName": "حلواني البركة ومخابز قنا البلدية",
+      "name": "فطير مشلتت صعيدي فلاحي بالسمن البلدي (حجم عائلي)",
+      "description": "فطير مشلتت طازج ومورق بالسمن البلدي الفلاحي، يخبز في فرن الحطب وممتاز للتقديم مع العسل والجبن القديم",
+      "price": 60,
+      "imageUrl": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=500",
+      "category": "مخابز وحلويات",
+      "stockQuantity": 24,
+      "isSoldOut": false,
+      "rating": 4.9,
+      "reviewCount": 56,
+      "reviews": [],
+      "createdAt": "2026-09-08T00:00:00+00:00"
+    },
+    {
+      "id": "821d41c3-f051-4e29-9daa-486597bca622",
+      "storeId": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+      "storeName": "jdsj",
+      "name": "شاورما انجليزي",
+      "description": "",
+      "price": 55,
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=500",
+      "category": "سوبرماركت",
+      "stockQuantity": 15,
+      "isSoldOut": false,
+      "rating": 5,
+      "reviewCount": 0,
+      "reviews": [],
+      "createdAt": "2026-09-10T00:00:00+00:00"
+    }
+  ],
+  "orders": [
+    {
+      "id": "27fcaf12-4aab-4863-95d7-f107ecbfdf01",
+      "customerId": "usr_guest_1789492",
+      "customerName": "عميل ضيف",
+      "customerPhone": "01099998888",
+      "items": [
+        {
+          "id": "item_1789492801468_u9pjx8",
+          "productId": "a2a2a2a2-b2b2-c2c2-d2d2-e2e2e2e2e2e2",
+          "productName": "زيت حبة البركة البلدي معصور على البارد (250 مل)",
+          "storeId": "1e0c7042-32b4-4bda-9195-2fe35940bb11",
+          "storeName": "عطارة وتوابل قنا الكبرى",
+          "quantity": 1,
+          "price": 75,
+          "status": "pending"
+        }
+      ],
+      "subtotal": 75,
+      "deliveryFee": 15,
+      "totalAmount": 90,
+      "status": "confirmed",
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "paid",
+      "deliveryAddress": "شارع المحطة، قنا",
+      "deliveryLat": 26.16,
+      "deliveryLng": 32.721,
+      "assignedDriverId": "cb2e9fe7-253f-49f4-b024-5a2d31aa8a9e",
+      "assignedDriverName": "هع",
+      "pickupStops": [
+        {
+          "storeId": "1e0c7042-32b4-4bda-9195-2fe35940bb11",
+          "storeName": "عطارة وتوابل قنا الكبرى",
+          "address": "شارع الجميل، متفرع من ميدان الساعة، قنا",
+          "lat": 26.157,
+          "lng": 32.718,
+          "items": [
+            {
+              "productName": "زيت حبة البركة البلدي معصور على البارد (250 مل)",
+              "quantity": 1
+            }
+          ],
+          "isPickedUp": false
+        }
+      ],
+      "createdAt": "٠٥:٢٠ م"
+    },
+    {
+      "id": "278bd4e7-d570-42b4-bfa7-b091a8d5f6cb",
+      "customerId": "4f72db7c-c697-40fd-af4c-4740f9076571",
+      "customerName": "عميل تجريبي",
+      "customerPhone": "01012345678",
+      "items": [
+        {
+          "id": "item_1789492793934_ikrifa",
+          "productId": "a2a2a2a2-b2b2-c2c2-d2d2-e2e2e2e2e2e2",
+          "productName": "زيت حبة البركة البلدي معصور على البارد (250 مل)",
+          "storeId": "1e0c7042-32b4-4bda-9195-2fe35940bb11",
+          "storeName": "عطارة وتوابل قنا الكبرى",
+          "quantity": 1,
+          "price": 75,
+          "status": "pending"
+        }
+      ],
+      "subtotal": 75,
+      "deliveryFee": 15,
+      "totalAmount": 90,
+      "status": "confirmed",
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "paid",
+      "deliveryAddress": "حي المصالح، قنا",
+      "deliveryLat": 26.16,
+      "deliveryLng": 32.721,
+      "assignedDriverId": "cb2e9fe7-253f-49f4-b024-5a2d31aa8a9e",
+      "assignedDriverName": "هع",
+      "pickupStops": [
+        {
+          "storeId": "1e0c7042-32b4-4bda-9195-2fe35940bb11",
+          "storeName": "عطارة وتوابل قنا الكبرى",
+          "address": "شارع الجميل، متفرع من ميدان الساعة، قنا",
+          "lat": 26.157,
+          "lng": 32.718,
+          "items": [
+            {
+              "productName": "زيت حبة البركة البلدي معصور على البارد (250 مل)",
+              "quantity": 1
+            }
+          ],
+          "isPickedUp": false
+        }
+      ],
+      "createdAt": "٠٥:١٩ م"
+    },
+    {
+      "id": "b5aaf067-860f-402b-9380-4d3f16d4f788",
+      "customerId": "usr_customer_1",
+      "customerName": "زلوط",
+      "customerPhone": "01000000004",
+      "items": [
+        {
+          "id": "item_1789124848293_x2s0nn",
+          "productId": "821d41c3-f051-4e29-9daa-486597bca622",
+          "productName": "شاورما انجليزي",
+          "storeId": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+          "storeName": "jdsj",
+          "quantity": 1,
+          "price": 55,
+          "status": "pending"
+        }
+      ],
+      "subtotal": 55,
+      "deliveryFee": 15,
+      "totalAmount": 70,
+      "status": "picking_up",
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "paid",
+      "deliveryAddress": "حي المصالح، شارع الجمهورية، عمارة 12، شقة 4، مدينة قنا",
+      "deliveryLat": 26.16,
+      "deliveryLng": 32.721,
+      "assignedDriverId": "be288557-65de-442a-a67a-b5e75fc100c8",
+      "assignedDriverName": "كابتن ماجد",
+      "pickupStops": [
+        {
+          "storeId": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+          "storeName": "jdsj",
+          "address": "زفت",
+          "lat": 26.158,
+          "lng": 32.718,
+          "items": [
+            {
+              "productName": "شاورما انجليزي",
+              "quantity": 1
+            }
+          ],
+          "isPickedUp": false
+        }
+      ],
+      "createdAt": "١١:٠٧ ص"
+    },
+    {
+      "id": "ae1728e9-a4ae-4a97-92f3-750079e58222",
+      "customerId": "usr_customer_1",
+      "customerName": "زلوط",
+      "customerPhone": "01000000004",
+      "items": [
+        {
+          "id": "item_1789118123086_an18sj",
+          "productId": "821d41c3-f051-4e29-9daa-486597bca622",
+          "productName": "شاورما انجليزي",
+          "storeId": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+          "storeName": "jdsj",
+          "quantity": 1,
+          "price": 55,
+          "status": "pending"
+        }
+      ],
+      "subtotal": 55,
+      "deliveryFee": 15,
+      "totalAmount": 70,
+      "status": "picking_up",
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "paid",
+      "deliveryAddress": "حي المصالح، شارع الجمهورية، عمارة 12، شقة 4، مدينة قنا",
+      "deliveryLat": 26.16,
+      "deliveryLng": 32.721,
+      "assignedDriverId": "be288557-65de-442a-a67a-b5e75fc100c8",
+      "assignedDriverName": "كابتن ماجد",
+      "pickupStops": [
+        {
+          "storeId": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+          "storeName": "jdsj",
+          "address": "زفت",
+          "lat": 26.158,
+          "lng": 32.718,
+          "items": [
+            {
+              "productName": "شاورما انجليزي",
+              "quantity": 1
+            }
+          ],
+          "isPickedUp": false
+        }
+      ],
+      "createdAt": "٠٩:١٥ ص"
+    },
+    {
+      "id": "8c959b01-1454-4cd1-bc3d-f38ef3bc667b",
+      "customerId": "usr_customer_1",
+      "customerName": "كريم",
+      "customerPhone": "01000000000",
+      "items": [
+        {
+          "id": "item_1789106561517_9sgnh9",
+          "productId": "821d41c3-f051-4e29-9daa-486597bca622",
+          "productName": "شاورما انجليزي",
+          "storeId": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+          "storeName": "jdsj",
+          "quantity": 1,
+          "price": 55,
+          "status": "pending"
+        }
+      ],
+      "subtotal": 55,
+      "deliveryFee": 10,
+      "totalAmount": 65,
+      "status": "picking_up",
+      "paymentMethod": "card",
+      "paymentStatus": "paid",
+      "deliveryAddress": "حي المصالح، شارع الجمهورية، عمارة 12، شقة 4، مدينة قنا",
+      "deliveryLat": 26.16,
+      "deliveryLng": 32.721,
+      "assignedDriverId": "drv_1789102495321",
+      "assignedDriverName": "الكابتن ماجد",
+      "pickupStops": [
+        {
+          "storeId": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+          "storeName": "jdsj",
+          "address": "زفت",
+          "lat": 26.158,
+          "lng": 32.718,
+          "items": [
+            {
+              "productName": "شاورما انجليزي",
+              "quantity": 1
+            }
+          ],
+          "isPickedUp": false
+        }
+      ],
+      "createdAt": "٠٦:٠٢ ص"
+    },
+    {
+      "id": "f85c79e8-008e-41ef-b0bb-662b525720fd",
+      "customerId": "usr_customer_1",
+      "customerName": "كريم",
+      "customerPhone": "01000000000",
+      "items": [
+        {
+          "id": "item_1789105461866_40wgq",
+          "productId": "821d41c3-f051-4e29-9daa-486597bca622",
+          "productName": "شاورما انجليزي",
+          "storeId": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+          "storeName": "jdsj",
+          "quantity": 1,
+          "price": 55,
+          "status": "pending"
+        }
+      ],
+      "subtotal": 55,
+      "deliveryFee": 10,
+      "totalAmount": 65,
+      "status": "delivered",
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "paid",
+      "deliveryAddress": "حي المصالح، شارع الجمهورية، عمارة 12، شقة 4، مدينة قنا",
+      "deliveryLat": 26.16,
+      "deliveryLng": 32.721,
+      "assignedDriverId": "drv_1789102495321",
+      "assignedDriverName": "الكابتن ماجد",
+      "pickupStops": [
+        {
+          "storeId": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+          "storeName": "jdsj",
+          "address": "زفت",
+          "lat": 26.158,
+          "lng": 32.718,
+          "items": [
+            {
+              "productName": "شاورما انجليزي",
+              "quantity": 1
+            }
+          ],
+          "isPickedUp": true
+        }
+      ],
+      "createdAt": "٠٥:٤٤ ص",
+      "deliveredAt": "٠٥:٥٤ ص"
+    },
+    {
+      "id": "5d0ada12-271e-48a2-bd24-41813aebc0d6",
+      "customerId": "usr_customer_1",
+      "customerName": "كريم",
+      "customerPhone": "01000000000",
+      "items": [
+        {
+          "id": "item_1789105201738_zsju95",
+          "productId": "821d41c3-f051-4e29-9daa-486597bca622",
+          "productName": "شاورما انجليزي",
+          "storeId": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+          "storeName": "jdsj",
+          "quantity": 1,
+          "price": 55,
+          "status": "pending"
+        }
+      ],
+      "subtotal": 55,
+      "deliveryFee": 10,
+      "totalAmount": 65,
+      "status": "delivered",
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "paid",
+      "deliveryAddress": "عند جامعة تعالى بليل",
+      "deliveryLat": 26.16,
+      "deliveryLng": 32.721,
+      "assignedDriverId": "drv_1789102495321",
+      "assignedDriverName": "الكابتن ماجد",
+      "pickupStops": [
+        {
+          "storeId": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+          "storeName": "jdsj",
+          "address": "زفت",
+          "lat": 26.158,
+          "lng": 32.718,
+          "items": [
+            {
+              "productName": "شاورما انجليزي",
+              "quantity": 1
+            }
+          ],
+          "isPickedUp": true
+        }
+      ],
+      "createdAt": "٠٥:٤٠ ص",
+      "deliveredAt": "٠٥:٤١ ص"
+    },
+    {
+      "id": "ffdee834-f736-481e-af42-0fe99d0a2530",
+      "customerId": "usr_customer_1",
+      "customerName": "تجربة الربط مع سوبابيز",
+      "customerPhone": "+20 10 9999 8888",
+      "items": [
+        {
+          "id": "item_1789102774706_0odoeb",
+          "productId": "a1a1a1a1-b1b1-c1c1-d1d1-e1e1e1e1e1e1",
+          "productName": "زعفران إيراني سوبر نقيل فاخر (2 جرام)",
+          "storeId": "1e0c7042-32b4-4bda-9195-2fe35940bb11",
+          "storeName": "عطارة وتوابل قنا الكبرى",
+          "quantity": 1,
+          "price": 140,
+          "status": "pending"
+        }
+      ],
+      "subtotal": 140,
+      "deliveryFee": 10,
+      "totalAmount": 150,
+      "status": "delivered",
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "paid",
+      "deliveryAddress": "شارع المحطة، قنا",
+      "deliveryLat": 26.16,
+      "deliveryLng": 32.721,
+      "assignedDriverId": "drv_1789102495321",
+      "assignedDriverName": "الكابتن ماجد",
+      "pickupStops": [
+        {
+          "storeId": "1e0c7042-32b4-4bda-9195-2fe35940bb11",
+          "storeName": "عطارة وتوابل قنا الكبرى",
+          "address": "شارع الجميل، متفرع من ميدان الساعة، قنا",
+          "lat": 26.157,
+          "lng": 32.718,
+          "items": [
+            {
+              "productName": "زعفران إيراني سوبر نقيل فاخر (2 جرام)",
+              "quantity": 1
+            }
+          ],
+          "isPickedUp": false
+        }
+      ],
+      "createdAt": "٠٤:٥٩ ص",
+      "deliveredAt": "٠٥:٠١ ص"
+    },
+    {
+      "id": "ord_1789099122884",
+      "customerId": "usr_customer_1",
+      "customerName": "عبد الرحمن القنائي",
+      "customerPhone": "+201012345678",
+      "items": [
+        {
+          "id": "item_1789099122884_4mlm2d",
+          "productId": "prd_cheese_romi",
+          "productName": "جبنة رومي بلدي قديمة معتقة بطارخ (500 جم)",
+          "storeId": "str_cheese_1",
+          "storeName": "أجبان وألبان المدينة الفاخرة",
+          "quantity": 2,
+          "price": 95,
+          "status": "pending"
+        }
+      ],
+      "subtotal": 190,
+      "deliveryFee": 10,
+      "totalAmount": 200,
+      "status": "confirmed",
+      "paymentMethod": "cash_on_delivery",
+      "paymentStatus": "paid",
+      "deliveryAddress": "شارع كوبري دندرة، قنا",
+      "deliveryLat": 26.16,
+      "deliveryLng": 32.721,
+      "assignedDriverId": "drv_1",
+      "assignedDriverName": "الكابتن أحمد ممدوح",
+      "pickupStops": [
+        {
+          "storeId": "str_cheese_1",
+          "storeName": "أجبان وألبان قنا الصعيدية",
+          "address": "شارع 23 يوليو، وسط البلد، قنا",
+          "lat": 26.155,
+          "lng": 32.716,
+          "items": [
+            {
+              "productName": "جبنة رومي بلدي قديمة معتقة بطارخ (500 جم)",
+              "quantity": 2
+            }
+          ],
+          "isPickedUp": false
+        }
+      ],
+      "createdAt": "٠٣:٥٨ ص"
+    }
+  ],
+  "deliveryDrivers": [
+    {
+      "id": "116c91d3-f244-49f8-a9e9-e0dc98bc1e35",
+      "userId": "be288557-65de-442a-a67a-b5e75fc100c8",
+      "driverName": "كابتن ماجد",
+      "vehicleType": "موتوسيكل",
+      "plateNumber": "ق ن ا 1234",
+      "currentLat": 26.156,
+      "currentLng": 32.718,
+      "isOnline": false,
+      "todayEarnings": 75,
+      "totalCashCollected": 280,
+      "todayKmDriven": 13.5,
+      "fuelConsumedLiters": 1.08,
+      "isApproved": true
+    },
+    {
+      "id": "cb2e9fe7-253f-49f4-b024-5a2d31aa8a9e",
+      "userId": "bcbd811b-699c-4e77-aea4-6ac1d41e8d03",
+      "driverName": "هع",
+      "vehicleType": "موتوسيكل",
+      "plateNumber": "ققق123",
+      "currentLat": 26.156,
+      "currentLng": 32.718,
+      "isOnline": true,
+      "todayEarnings": 0,
+      "totalCashCollected": 0,
+      "todayKmDriven": 0,
+      "fuelConsumedLiters": 0,
+      "isApproved": true
+    },
+    {
+      "id": "48c9a7e5-4369-4b45-adee-988cef3dbfb1",
+      "userId": "4f72db7c-c697-40fd-af4c-4740f9076571",
+      "driverName": "الزعرور",
+      "vehicleType": "موتوسيكل",
+      "plateNumber": "ق ن أ 0003",
+      "currentLat": 26.1551,
+      "currentLng": 32.716,
+      "isOnline": true,
+      "todayEarnings": 0,
+      "totalCashCollected": 0,
+      "todayKmDriven": 0,
+      "fuelConsumedLiters": 0,
+      "isApproved": true
+    },
+    {
+      "id": "47498610-670e-44f2-9308-47a329fc4849",
+      "userId": "47498610-670e-44f2-9308-47a329fc4849",
+      "driverName": "زلوط",
+      "vehicleType": "موتوسيكل",
+      "plateNumber": "زعع 123",
+      "currentLat": 26.156,
+      "currentLng": 32.718,
+      "isOnline": false,
+      "todayEarnings": 0,
+      "totalCashCollected": 0,
+      "todayKmDriven": 0,
+      "fuelConsumedLiters": 0,
+      "isApproved": true
+    },
+    {
+      "id": "4bdf1363-000f-4100-b256-24d34ad2d967",
+      "userId": "4bdf1363-000f-4100-b256-24d34ad2d967",
+      "driverName": "محمد",
+      "vehicleType": "موتوسيكل",
+      "plateNumber": "ق ن أ 6464",
+      "currentLat": 26.1551,
+      "currentLng": 32.716,
+      "isOnline": true,
+      "todayEarnings": 0,
+      "totalCashCollected": 0,
+      "todayKmDriven": 0,
+      "fuelConsumedLiters": 0,
+      "isApproved": true
+    },
+    {
+      "id": "3d8da850-3f02-4d0d-aa7a-70066e2d9f61",
+      "userId": "b389e1be-4789-4490-8a71-b2c77ced8b5b",
+      "driverName": "علي كابتن",
+      "vehicleType": "موتوسيكل",
+      "plateNumber": "ق ن ا 5555",
+      "currentLat": 26.156,
+      "currentLng": 32.718,
+      "isOnline": true,
+      "todayEarnings": 0,
+      "totalCashCollected": 0,
+      "todayKmDriven": 0,
+      "fuelConsumedLiters": 0,
+      "isApproved": true
+    },
+    {
+      "id": "11e7c00e-eb24-4a51-91f7-516f26f5867a",
+      "userId": "11e7c00e-eb24-4a51-91f7-516f26f5867a",
+      "driverName": "عمك",
+      "vehicleType": "موتوسيكل",
+      "plateNumber": "للل123",
+      "currentLat": 26.156,
+      "currentLng": 32.718,
+      "isOnline": true,
+      "todayEarnings": 0,
+      "totalCashCollected": 0,
+      "todayKmDriven": 0,
+      "fuelConsumedLiters": 0,
+      "isApproved": true
+    }
+  ],
+  "withdrawalRequests": [],
+  "notifications": [
+    {
+      "id": "notif_admin_1789492801897_88rc",
+      "title": "طلب جديد في المنصة #df01 📊",
+      "message": "طلب بقيمة 90 ج.م تم إسناده للكابتن هع.",
+      "timestamp": "الآن",
+      "type": "order",
+      "read": false,
+      "targetRole": "admin",
+      "orderId": "27fcaf12-4aab-4863-95d7-f107ecbfdf01"
+    },
+    {
+      "id": "notif_store_1e0c7042-32b4-4bda-9195-2fe35940bb11_1789492801897_drik",
+      "title": "طلب جديد لمتجرك #df01 📦",
+      "message": "لديك أصناف جديدة بطلب #df01 مطلوب تجهيزها للكابتن هع.",
+      "timestamp": "الآن",
+      "type": "order",
+      "read": false,
+      "storeId": "1e0c7042-32b4-4bda-9195-2fe35940bb11",
+      "userId": "4f72db7c-c697-40fd-af4c-4740f9076571",
+      "targetRole": "merchant",
+      "orderId": "27fcaf12-4aab-4863-95d7-f107ecbfdf01"
+    },
+    {
+      "id": "notif_cust_1789492801897_5kum",
+      "title": "تم تأكيد طلبك #df01 🎉",
+      "message": "طلبك بقيمة 90 ج.م قيد التنفيذ الآن وتم تعيين الكابتن هع.",
+      "timestamp": "الآن",
+      "type": "order",
+      "read": false,
+      "userId": "usr_guest_1789492",
+      "targetRole": "customer",
+      "orderId": "27fcaf12-4aab-4863-95d7-f107ecbfdf01"
+    },
+    {
+      "id": "notif_drv_1789492801897_lp1s",
+      "title": "طلب توصيل مسند إليك #df01 🛵",
+      "message": "طلب مجمع بقيمة 90 ج.م من 1 متاجر مطلوب استلامه وتوصيله.",
+      "timestamp": "الآن",
+      "type": "delivery",
+      "read": false,
+      "driverId": "cb2e9fe7-253f-49f4-b024-5a2d31aa8a9e",
+      "userId": "bcbd811b-699c-4e77-aea4-6ac1d41e8d03",
+      "targetRole": "delivery",
+      "orderId": "27fcaf12-4aab-4863-95d7-f107ecbfdf01"
+    },
+    {
+      "id": "notif_admin_1789492794331_2tzk",
+      "title": "طلب جديد في المنصة #f6cb 📊",
+      "message": "طلب بقيمة 90 ج.م تم إسناده للكابتن هع.",
+      "timestamp": "الآن",
+      "type": "order",
+      "read": false,
+      "targetRole": "admin",
+      "orderId": "278bd4e7-d570-42b4-bfa7-b091a8d5f6cb"
+    },
+    {
+      "id": "notif_store_1e0c7042-32b4-4bda-9195-2fe35940bb11_1789492794331_9bdx",
+      "title": "طلب جديد لمتجرك #f6cb 📦",
+      "message": "لديك أصناف جديدة بطلب #f6cb مطلوب تجهيزها للكابتن هع.",
+      "timestamp": "الآن",
+      "type": "order",
+      "read": false,
+      "storeId": "1e0c7042-32b4-4bda-9195-2fe35940bb11",
+      "userId": "4f72db7c-c697-40fd-af4c-4740f9076571",
+      "targetRole": "merchant",
+      "orderId": "278bd4e7-d570-42b4-bfa7-b091a8d5f6cb"
+    },
+    {
+      "id": "notif_cust_1789492794331_nqrm",
+      "title": "تم تأكيد طلبك #f6cb 🎉",
+      "message": "طلبك بقيمة 90 ج.م قيد التنفيذ الآن وتم تعيين الكابتن هع.",
+      "timestamp": "الآن",
+      "type": "order",
+      "read": false,
+      "userId": "4f72db7c-c697-40fd-af4c-4740f9076571",
+      "targetRole": "customer",
+      "orderId": "278bd4e7-d570-42b4-bfa7-b091a8d5f6cb"
+    },
+    {
+      "id": "notif_drv_1789492794331_00dj",
+      "title": "طلب توصيل مسند إليك #f6cb 🛵",
+      "message": "طلب مجمع بقيمة 90 ج.م من 1 متاجر مطلوب استلامه وتوصيله.",
+      "timestamp": "الآن",
+      "type": "delivery",
+      "read": false,
+      "driverId": "cb2e9fe7-253f-49f4-b024-5a2d31aa8a9e",
+      "userId": "bcbd811b-699c-4e77-aea4-6ac1d41e8d03",
+      "targetRole": "delivery",
+      "orderId": "278bd4e7-d570-42b4-bfa7-b091a8d5f6cb"
+    },
+    {
+      "id": "notif_appr_1789302131306",
+      "title": "تهانينا! تمت ترقية وتفعيل حسابك 🎉",
+      "message": "تمت موافقة الإدارة على طلب انضمامك كـ (كابتن توصيل) وتم تغيير دور حسابك في قاعدة البيانات بنجاح. يمكنك الآن ممارسة مهامك.",
+      "timestamp": "الآن",
+      "type": "system",
+      "read": false,
+      "userId": "test_driver_456",
+      "targetRole": "delivery"
+    },
+    {
+      "id": "notif_admin_1789124849011_vz8z",
+      "title": "طلب جديد في المنصة #8293 📊",
+      "message": "طلب بقيمة 70 ج.م تم إسناده للكابتن كابتن ماجد.",
+      "timestamp": "الآن",
+      "type": "order",
+      "read": false,
+      "targetRole": "admin",
+      "orderId": "b5aaf067-860f-402b-9380-4d3f16d4f788"
+    },
+    {
+      "id": "notif_store_c024e4f8-7f50-4a33-9dec-f5622e45416e_1789124849011_h3t7",
+      "title": "طلب جديد لمتجرك #8293 📦",
+      "message": "لديك أصناف جديدة بطلب #8293 مطلوب تجهيزها للكابتن كابتن ماجد.",
+      "timestamp": "الآن",
+      "type": "order",
+      "read": false,
+      "storeId": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+      "userId": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+      "targetRole": "merchant",
+      "orderId": "b5aaf067-860f-402b-9380-4d3f16d4f788"
+    },
+    {
+      "id": "notif_cust_1789124849011_y2ds",
+      "title": "تم تأكيد طلبك #8293 🎉",
+      "message": "طلبك بقيمة 70 ج.م قيد التنفيذ الآن وتم تعيين الكابتن كابتن ماجد.",
+      "timestamp": "الآن",
+      "type": "order",
+      "read": false,
+      "userId": "usr_customer_1",
+      "targetRole": "customer",
+      "orderId": "b5aaf067-860f-402b-9380-4d3f16d4f788"
+    },
+    {
+      "id": "notif_admin_1789118123929_bfvq",
+      "title": "طلب جديد في المنصة #3086 📊",
+      "message": "طلب بقيمة 70 ج.م تم إسناده للكابتن كابتن ماجد.",
+      "timestamp": "الآن",
+      "type": "order",
+      "read": false,
+      "targetRole": "admin",
+      "orderId": "ae1728e9-a4ae-4a97-92f3-750079e58222"
+    },
+    {
+      "id": "notif_store_c024e4f8-7f50-4a33-9dec-f5622e45416e_1789118123929_y06f",
+      "title": "طلب جديد لمتجرك #3086 📦",
+      "message": "لديك أصناف جديدة بطلب #3086 مطلوب تجهيزها للكابتن كابتن ماجد.",
+      "timestamp": "الآن",
+      "type": "order",
+      "read": false,
+      "storeId": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+      "userId": "c024e4f8-7f50-4a33-9dec-f5622e45416e",
+      "targetRole": "merchant",
+      "orderId": "ae1728e9-a4ae-4a97-92f3-750079e58222"
+    },
+    {
+      "id": "notif_cust_1789118123929_t1tx",
+      "title": "تم تأكيد طلبك #3086 🎉",
+      "message": "طلبك بقيمة 70 ج.م قيد التنفيذ الآن وتم تعيين الكابتن كابتن ماجد.",
+      "timestamp": "الآن",
+      "type": "order",
+      "read": false,
+      "userId": "usr_customer_1",
+      "targetRole": "customer",
+      "orderId": "ae1728e9-a4ae-4a97-92f3-750079e58222"
+    }
+  ],
+  "categories": [
+    "جزارة ولحوم",
+    "سوبرماركت",
+    "مخابز وحلويات",
+    "خضار وفواكه",
+    "مخبوزات",
+    "عام",
+    "شاورما"
+  ],
+  "offerSlides": [
+    {
+      "id": "slide_1",
+      "title": "طلب واحد مجمع لجميع احتياجاتك",
+      "subtitle": "اطلب الجبنة واللحمة والمخبوزات معاً في سلة واحدة، ومندوب واحد يجمعهم لك!",
+      "tag": "عرض اليوم",
+      "badge": "توصيل موحد 16 ج.م",
+      "gradient": "from-emerald-700 via-teal-800 to-slate-900",
+      "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=800",
+      "showTag": true,
+      "showBadge": true,
+      "showTimer": true,
+      "timerDurationHours": 6,
+      "timerLabel": "ينتهي خلال:",
+      "showCoupon": true,
+      "couponCode": "BADALIK50",
+      "couponLabel": "كود الخصم:",
+      "showButton": true,
+      "buttonText": "تسوق الآن",
+      "imageOnly": false,
+      "noFilter": false
+    },
+    {
+      "id": "slide_2",
+      "title": "لحوم بلدية طازجة وأجبان فاخرة معتقة",
+      "subtitle": "خصم 20% على مختارات ملحمة الصعيد وأجبان قنا البلدية اليوم",
+      "tag": "عروض حصرية",
+      "badge": "خصم حتى 25%",
+      "gradient": "from-amber-700 via-rose-850 to-slate-900",
+      "image": "https://images.unsplash.com/photo-1551028150-64b9f398f678?w=800",
+      "showTag": true,
+      "showBadge": true,
+      "showTimer": true,
+      "timerDurationHours": 12,
+      "timerLabel": "العرض ساري لمدة:",
+      "showCoupon": true,
+      "couponCode": "CHEESE20",
+      "couponLabel": "كوبون الجبن:",
+      "showButton": true,
+      "buttonText": "اطلب الألبان",
+      "imageOnly": false,
+      "noFilter": false
+    }
+  ],
+  "joinRequests": [
+    {
+      "id": "req_drv_test_driver_456",
+      "user_id": "test_driver_456",
+      "user_name": "حسام البدري القنائي",
+      "user_email": "hossam.driver@example.com",
+      "user_phone": "01022334455",
+      "requested_role": "delivery",
+      "status": "approved",
+      "store_name": null,
+      "store_category": null,
+      "store_address": null,
+      "vehicle_type": "موتوسيكل هوندا",
+      "plate_number": "ق ن ل 9999",
+      "notes": null,
+      "created_at": "2026-09-13T12:22:07.595Z",
+      "updated_at": "2026-09-13T12:22:11.306Z",
+      "reviewed_at": "2026-09-13T12:22:11.306Z"
+    }
+  ]
+}

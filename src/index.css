@@ -1,0 +1,307 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Amazon Design System Color Tokens */
+:root {
+  --amazon-squid-ink: #232F3E;
+  --amazon-nav-top: #131921;
+  --amazon-subnav-hover: #37475A;
+  --amazon-orange: #FF9900;
+  --amazon-orange-hover: #E47911;
+  --amazon-yellow-btn: #FFD814;
+  --amazon-yellow-btn-hover: #F7CA00;
+  --amazon-orange-btn: #FFA41C;
+  --amazon-orange-btn-hover: #FA8900;
+  --amazon-bg-light: #EAEDED;
+  --amazon-text-primary: #0F1111;
+  --amazon-text-secondary: #565959;
+  --amazon-link: #007185;
+  --amazon-link-hover: #C7511F;
+  --amazon-red: #BA0933;
+  --amazon-green: #007600;
+  --amazon-star: #FFA41C;
+  --amazon-border: #D5D9D9;
+
+  /* Backward compatibility mapping */
+  --color-brand-orange: #FF9900;
+  --color-brand-orange-hover: #E47911;
+  --color-brand-teal: #007185;
+  --color-brand-teal-light: #00A8E1;
+  --color-brand-gold: #FFA41C;
+  --color-brand-gold-light: #FFD814;
+}
+
+@layer base {
+  html {
+    font-family: 'Amazon Ember', 'Cairo', Arial, sans-serif;
+    color: #0F1111;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+
+  body {
+    font-family: 'Amazon Ember', 'Cairo', Arial, sans-serif;
+    color: #0F1111;
+    background-color: #EAEDED;
+  }
+
+  /* Headings: 21px to 28px (Bold) */
+  h1 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.25;
+    color: #0F1111;
+  }
+  @media (min-width: 640px) {
+    h1 {
+      font-size: 28px;
+    }
+  }
+
+  h2 {
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 1.3;
+    color: #0F1111;
+  }
+
+  h3 {
+    font-size: 18px;
+    font-weight: 700;
+    color: #0F1111;
+  }
+
+  /* Product Titles: 16px - 18px */
+  .product-title {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.35;
+    color: #0F1111;
+  }
+
+  /* Body: 14px */
+  .body-text, p {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  /* Meta / Caption: 12px */
+  .meta-text, caption, small {
+    font-size: 12px;
+    color: #565959;
+  }
+
+  /* Inter font for numbers, distances, prices and codes */
+  .font-inter,
+  .font-num,
+  .font-digits {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+  }
+}
+
+/* ------------------------------------------------------------- */
+/* Amazon UI Components & Buttons                                */
+/* ------------------------------------------------------------- */
+
+/* Amazon Yellow Button (Add to Cart / Buy) */
+.amazon-btn-yellow {
+  background-color: #FFD814;
+  border: 1px solid #FCD200;
+  box-shadow: 0 2px 5px 0 rgba(213,217,217,.5);
+  color: #0F1111;
+  font-weight: 600;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+}
+.amazon-btn-yellow:hover {
+  background-color: #F7CA00;
+  border-color: #F2C200;
+  box-shadow: 0 2px 5px 0 rgba(213,217,217,.7);
+}
+.amazon-btn-yellow:active {
+  background-color: #F0B800;
+  box-shadow: 0 1px 3px 0 rgba(213,217,217,.8);
+}
+
+/* Amazon Orange Button (Buy Now) */
+.amazon-btn-orange {
+  background-color: #FFA41C;
+  border: 1px solid #FF8F00;
+  box-shadow: 0 2px 5px 0 rgba(213,217,217,.5);
+  color: #0F1111;
+  font-weight: 600;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+}
+.amazon-btn-orange:hover {
+  background-color: #FA8900;
+  border-color: #E07E00;
+  box-shadow: 0 2px 5px 0 rgba(213,217,217,.7);
+}
+.amazon-btn-orange:active {
+  background-color: #EE6C00;
+  box-shadow: 0 1px 3px 0 rgba(213,217,217,.8);
+}
+
+/* Amazon Secondary Button (Grey) */
+.amazon-btn-secondary {
+  background-color: #F0F2F2;
+  border: 1px solid #D5D9D9;
+  box-shadow: 0 2px 5px 0 rgba(213,217,217,.4);
+  color: #0F1111;
+  font-weight: 500;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+}
+.amazon-btn-secondary:hover {
+  background-color: #E3E6E6;
+  border-color: #B5B9B9;
+}
+
+/* Amazon White Standard Button */
+.amazon-btn-white {
+  background-color: #FFFFFF;
+  border: 1px solid #D5D9D9;
+  box-shadow: 0 2px 5px 0 rgba(213,217,217,.5);
+  color: #0F1111;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+}
+.amazon-btn-white:hover {
+  background-color: #F7FAFA;
+  border-color: #D5D9D9;
+}
+.amazon-btn-white:active {
+  background-color: #EDFDFF;
+  border-color: #007185;
+}
+
+/* Amazon Card Standard */
+.amazon-card {
+  background-color: #FFFFFF;
+  border: 1px solid #D5D9D9;
+  border-radius: 4px;
+}
+.dark .amazon-card {
+  background-color: #1A1F26;
+  border-color: #37475A;
+}
+
+/* Amazon Prime Badge */
+.amazon-badge-prime {
+  color: #00A8E1;
+  font-weight: 900;
+  font-style: italic;
+  letter-spacing: -0.02em;
+}
+
+/* Amazon Link */
+.amazon-link {
+  color: #007185;
+  cursor: pointer;
+  transition: color 0.15s ease;
+}
+.amazon-link:hover {
+  color: #C7511F;
+  text-decoration: underline;
+}
+
+/* Amazon Deal Badge */
+.amazon-badge-deal {
+  background-color: #BA0933;
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 11px;
+  padding: 3px 8px;
+  border-radius: 2px;
+  display: inline-block;
+}
+
+/* Amazon In Stock */
+.amazon-in-stock {
+  color: #007600;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+/* Amazon Product Card - High Density */
+.amazon-product-card {
+  background-color: #FFFFFF;
+  border: 1px solid #E7E7E7;
+  border-radius: 4px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+}
+.amazon-product-card:hover {
+  border-color: #D5D9D9;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* Custom scrollbar for horizontal categories */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* ------------------------------------------------------------- */
+/* Dark Mode Unified Palette for Amazon Dark Atmosphere          */
+/* ------------------------------------------------------------- */
+.dark {
+  color-scheme: dark;
+}
+
+.dark body {
+  background-color: #0F1111;
+  color: #F3F3F3;
+}
+
+.dark .bg-white {
+  background-color: #1A1F26;
+  border-color: #37475A;
+  color: #F3F3F3;
+}
+
+.dark .amazon-product-card {
+  background-color: #1A1F26;
+  border-color: #2E3844;
+}
+.dark .amazon-product-card:hover {
+  border-color: #FF9900;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.4);
+}
+
+.dark .text-slate-900,
+.dark .text-slate-950,
+.dark .text-slate-800 {
+  color: #F3F3F3;
+}
+
+.dark .text-slate-700,
+.dark .text-slate-600 {
+  color: #CBD5E1;
+}
+
+.dark .text-slate-500,
+.dark .text-slate-400 {
+  color: #9CA3AF;
+}
+
+.dark .border-slate-200,
+.dark .border-slate-100,
+.dark .border-slate-300 {
+  border-color: #37475A;
+}
+

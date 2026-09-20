@@ -1,0 +1,10 @@
+{
+  "name": "Remix Badalak",
+  "description": "المنصة الإلكترونية الأولى المخصصة لمدينة ومحافظة قنا - تسوق من مختلف التجار والمحلات المحلية بسلة موحدة وتوصيل سريع بالجنيه المصري",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
